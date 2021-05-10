@@ -1,0 +1,24 @@
+Image to Text
+---------------------------------------------------
+Installed pytesseract [pip install pytesseract]
+then I installed Google Tesseract OCR
+https://www.youtube.com/watch?v=4DrCIVS5U3Y&t=178s
+
+https://medium.com/@deepakjoseph08/spacy-based-ner-spacy-annotation-tool-classification-report-for-ner-95e0e6c760cb
+https://www.youtube.com/watch?v=yqruv_QQctI
+
+text annotation
+https://appen.com/blog/text-annotation/
+
+
+
+
+training part
+https://github.com/DataTurks-Engg/Entity-Recognition-In-Resumes-SpaCy/blob/master/train.py
+
+text to java string - search
+http://snible.org/java2/uni2java.html
+
+annotation tool
+https://www.youtube.com/watch?v=h9wA3D4No0g
+https://ubiai.tools/NLP/Annotation/3989?name=NLP
