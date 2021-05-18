@@ -91,7 +91,7 @@ def train_spacy():
     with nlp.disable_pipes(*disable_pipes):
         optimizer = nlp.begin_training()
 
-        for iteration in range(1000):
+        for iteration in range(10):
             print('Iteration '+str(iteration))
             losses = {}
 
@@ -108,6 +108,8 @@ def train_spacy():
                 print('Losses', losses)
 
     nlp.to_disk("Model/")
+
+
 
 
 train_spacy()
