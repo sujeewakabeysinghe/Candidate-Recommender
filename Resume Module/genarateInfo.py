@@ -25,7 +25,7 @@ def generate_info_file():
     for ent in doc.ents:
         d[ent.label_].append(ent.text)
     # print(d)
-    # print(d.keys())  # keys are EDUCATION PROJECTS etc
+    print(d.keys())  # keys are EDUCATION PROJECTS etc
 
     for i in set(d.keys()):
         fw.write('\n\n')

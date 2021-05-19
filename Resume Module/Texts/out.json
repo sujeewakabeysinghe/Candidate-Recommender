@@ -1,8 +1,10 @@
 {
-    "Skills": null,
-    "Educations": null,
-    "Designation": null,
+    "Designation": [
+        "SOFTWARE ENGINEER"
+    ],
     "Experience": null,
-    "Name": null,
-    "Projects": null
+    "Projects": null,
+    "Educations": null,
+    "Skills": null,
+    "Name": null
 }
