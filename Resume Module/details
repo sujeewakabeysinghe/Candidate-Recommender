@@ -15,6 +15,7 @@ https://appen.com/blog/text-annotation/
 
 training part
 https://github.com/DataTurks-Engg/Entity-Recognition-In-Resumes-SpaCy/blob/master/train.py
+https://github.com/explosion/spaCy/issues/5037
 
 text to java string - search
 http://snible.org/java2/uni2java.html
@@ -28,3 +29,11 @@ https://pypi.org/project/spacy/2.3.3.dev0/#files
 
 evaluation
 https://scikit-learn.org/0.15/modules/model_evaluation.html
+
+train part explain
+https://www.machinelearningplus.com/nlp/training-custom-ner-model-in-spacy/
+https://towardsdatascience.com/using-spacy-3-0-to-build-a-custom-ner-model-c9256bea098
+
+
+how spacy work
+https://blog.vsoftconsulting.com/blog/understanding-named-entity-recognition-pre-trained-models#:~:text=The%20Spacy%20NER%20system%20contains,of%20efficiency%2C%20accuracy%20and%20adaptability.

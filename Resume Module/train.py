@@ -95,7 +95,7 @@ def train_spacy():
     with nlp.disable_pipes(*disable_pipes):
         optimizer = nlp.begin_training()
 
-        for iteration in range(100):
+        for iteration in range(200):
             print('Iteration '+str(iteration))
             losses = {}
 
@@ -117,6 +117,10 @@ def train_spacy():
     test_data = convert_data_to_spacy(test_data_path)
     test_data = trim_entity_spans(test_data)
     # print(test_data)
+    tp = 0
+    tr = 0
+    tf = 0
+    ta = 0
     c = 1
     for text, annotations in test_data:
         # print(annotations)
@@ -152,8 +156,7 @@ def train_spacy():
             d[ent.label_][3] += f
             d[ent.label_][4] += a
             d[ent.label_][5] += 1
-
-    c += 1
+        c += 1
 
     for i in d:
         print("\n For Entity " + i + "\n")
