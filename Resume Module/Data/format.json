@@ -1,0 +1,17 @@
+{
+  "object" :
+  [
+    {
+        "content": "",
+        "annotation":
+        [
+          {"label":["Name"],"points":[{}]},
+          {"label":["Designation"],"points":[{}]},
+          {"label":["Experience"],"points":[{}]},
+          {"label":["Educations"],"points":[{}]},
+          {"label":["Projects"],"points":[{}]},
+          {"label":["Skills"],"points":[{}]}
+        ]
+      }
+  ]
+}
