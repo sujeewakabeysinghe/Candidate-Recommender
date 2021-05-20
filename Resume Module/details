@@ -40,3 +40,7 @@ https://blog.vsoftconsulting.com/blog/understanding-named-entity-recognition-pre
 
 must read before
 https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da
+
+warning
+https://github.com/explosion/spaCy/issues/5727
+https://github.com/explosion/spaCy/issues/6071

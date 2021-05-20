@@ -72,7 +72,7 @@ def trim_entity_spans(data: list) -> list:
 
 def train_spacy():
 
-    data_path = 'Data/data.json'
+    data_path = 'Data/newDataW.json'
     train_data = convert_data_to_spacy(data_path)
 
     nlp = spacy.blank('en')  # loading blank english model
@@ -95,7 +95,7 @@ def train_spacy():
     with nlp.disable_pipes(*disable_pipes):
         optimizer = nlp.begin_training()
 
-        for iteration in range(200):
+        for iteration in range(1000):
             print('Iteration '+str(iteration))
             losses = {}
 
@@ -111,7 +111,7 @@ def train_spacy():
                 )
                 print('Losses', losses)
 
-    test_data_path = './Data/testData.json'
+    '''test_data_path = './Data/testData.json'
     test_summaries = './Tested Summaries/'
 
     test_data = convert_data_to_spacy(test_data_path)
@@ -163,7 +163,7 @@ def train_spacy():
         print("Accuracy : " + str((d[i][4] / d[i][5]) * 100 - 20.58) + "%")
         print("Precision : " + str(d[i][1] * (random.randint(50, 65) / 100) / d[i][5]))
         print("Recall : " + str(d[i][2] * (random.randint(50, 65) / 100) / d[i][5]))
-        print("F-score : " + str(d[i][3] * (random.randint(50, 65) / 100) / d[i][5]))
+        print("F-score : " + str(d[i][3] * (random.randint(50, 65) / 100) / d[i][5]))'''
 
     nlp.to_disk("Model/")
 
