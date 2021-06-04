@@ -169,6 +169,4 @@ def train_spacy():
     nlp.to_disk("Model/")
 
 
-
-
 train_spacy()
