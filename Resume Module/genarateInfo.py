@@ -4,13 +4,13 @@ from pdfToText import pdf_to_text_convert
 
 
 image_dir = './Images/'
-pdf_file = './CV/Sujeewa_Abeysinghe.pdf'
+pdf_file = './CV/Sachini_Piyumali_SE.pdf'
 model_path = './Model/'
 text_file = './Texts'
 
 
 def generate_info_file():
-    # pdf_to_text_convert(pdf_file, image_dir)  # convert pdf to text
+    pdf_to_text_convert(pdf_file, image_dir)  # convert pdf to text
     nlp = spacy.load('Model/')  # loading custom spacy model
 
     fr = open(text_file+'/text.txt', 'r', encoding='utf-8')  # reading generated text file
