@@ -161,7 +161,7 @@ def train_spacy():
 
     for i in d:
         print("\n For Entity " + i + "\n")
-        print("Accuracy : " + str((d[i][4] / d[i][5]) * 100 - 20.58) + "%")
+        print("Accuracy : " + str((d[i][4] / d[i][5]) * 100) + "%")
         print("Precision : " + str(d[i][1] * (random.randint(50, 65) / 100) / d[i][5]))
         print("Recall : " + str(d[i][2] * (random.randint(50, 65) / 100) / d[i][5]))
         print("F-score : " + str(d[i][3] * (random.randint(50, 65) / 100) / d[i][5]))
