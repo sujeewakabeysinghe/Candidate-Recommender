@@ -1,27 +1,27 @@
 
 
-Skills:
-React native, Spring Boot, MySQL
-GEETHIKA
-Java, CWeb Development :HTML, CSS, JavaScript, Bootstrap
-React, Angular
-React Native, Android
+Experience:
+TRAINEE SOFTWARE ENGINEER - VIRTUSA (PVT) LTD
 
 
 Designation:
 SOFTWARE ENGINEER
 
 
-Educations:
-BSc. (Hons) in Information Technology Degree
-FACULTY OF INFORMATION TECHNOLOGY - UNIVERSITY OF MORATUWA
-
-
-Experience:
-TRAINEE SOFTWARE ENGINEER - VIRTUSA (PVT) LTD
-
-
 Projects:
-e Volunteer in STEM UP Educational Foundation
 AUTOMATED PLANT PROTECTING SYSTEMJanuary 2019 - January 2020
 e Mentored by Creative Software (Pvt.) Ltd. Web and mobile application-basedsystem for both suppliers and customers, where suppliers can advertise theiroffers & promotions and customers can place their orders for offered items
+e Volunteer in STEM UP Educational Foundation
+
+
+Skills:
+GEETHIKA
+React, Angular
+React native, Spring Boot, MySQL
+React Native, Android
+Java, CWeb Development :HTML, CSS, JavaScript, Bootstrap
+
+
+Educations:
+FACULTY OF INFORMATION TECHNOLOGY - UNIVERSITY OF MORATUWA
+BSc. (Hons) in Information Technology Degree

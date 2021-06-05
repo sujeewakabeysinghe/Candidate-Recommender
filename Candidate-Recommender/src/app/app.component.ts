@@ -9,22 +9,26 @@ import { HttpClient } from '@angular/common/http';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  title = 'fileUpload';
+  images:any;
+  constructor(private http: HttpClient){}
 
-  fileName = '';
+  ngOnInit() {}
 
-  constructor(private http: HttpClient) {}
+  selectImage(event:any) {
+    if (event.target.files.length > 0) {
+      const file = event.target.files[0];
+      this.images = file;
+    }
+  }
 
-  onFileSelected(event : any) {
-      const file:File = event.target.files[0];
-      if (file) {
-          this.fileName = file.name;
-          const formData = new FormData();
-          formData.append("thumbnail", file);
-          console.log(file)
-          const upload$ = this.http.post("http://localhost:3000/resume/upload", formData);
-          upload$.subscribe(res =>{
-            console.log(res)
-          });
-      }
+  onSubmit(){
+    const formData = new FormData();
+    formData.append('file', this.images);
+
+    this.http.post<any>('http://localhost:3000/resume/upload', formData).subscribe(
+      (res) => console.log(res),
+      (err) => console.log(err)
+    );
   }
 }
