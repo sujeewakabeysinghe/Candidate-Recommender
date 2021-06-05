@@ -1,0 +1,25 @@
+
+
+Projects:
+SCHOOL MANAGEMENT SYSTEM "AKURA"(FINANCE DIVISION) INTERNSHIP PERIOD    (09/2018 - 03/2019)
+TOURIST MANAGEMENT SYSTEM     (2016 - 2017)A system to manage facilities which facilitates tourists 'needs such as booking hotels ,cab services and tourguides using a web application and an androidapplication . The hotel , tour guide , cab service detailscan be updated through this system by logging in asservice providers
+TO IDENTIFY DRIVER'S DROWSINESSUSING ELECTROCARDIOGRAM(ECG),ELECTROENCEPHALOGRAM(EEG) ANDELECTROMYOGRAM(EMG) SIGNALS(Fourth year research project | Mar 2019-Present)The project addresses the problem of road accidentsthat occur due to drowsy drivers which introduces asystem to detect driver 's Electroencephalogram(EEG)Electrocardiogram(ECG) and Electrocardiogram (EMG)signals and analyze signals to detect the driver 'sdrowsiness
+A School Management System that provides a platformto unite school administration , teachers , students , andparents . This application allows Students , Parents andStaff to keep their own profiles
+
+
+Name:
+THANUJAGUNASEKARA
+
+
+Educations:
+University of Moratuwa
+B.Sc. (Hons.) in Information Technology
+GPA - 3.1
+
+
+Experience:
+Trainee Software Engineer
+
+
+Designation:
+S O F T W A R E  E N G I N E E R

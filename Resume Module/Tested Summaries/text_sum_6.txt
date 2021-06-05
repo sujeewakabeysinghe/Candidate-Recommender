@@ -1,0 +1,22 @@
+
+
+Experience:
+TRAINEE SOFTWARE ENGINEER - EYEPAX IT CONSULTING PVT. LTD
+TRAINEE -
+
+
+Educations:
+B.Sc.(Hons) in Information Technology (expected in 2020) RICHMOND COLLEGE - GALLE
+UNIVERSITY OF MORATUWAFaculty of Information Technology
+Silvereen, Mampitiya,Hapugala
+
+
+Projects:
+research project - OngoingResearch project for detecting  pneumonia and pulmonary tuberculosis byanalyzing chest X- ray images . Images are taken from local chest clinicsand sent through multiple filters and goal of the project is assessment ofclassification algorithms(CNN, SVM,
+GARAGE BOOKING AND MANAGEMENT  WEBProject during the training periodProject  developed by the EYEPAX  Consulting Pvt Ltd. A website forSweden and   Norway to manage garage networks and book garageservices. Built using .NET and Angular JS
+My Contribution : Preprocessing and feature selection
+My contribution : Provide business solution and Frond-End
+
+
+Skills:
+Database - MySQL , MSSQL

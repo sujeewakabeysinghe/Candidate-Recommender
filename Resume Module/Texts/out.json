@@ -1,10 +1,25 @@
 {
+    "Skills": [
+        "React native, Spring Boot, MySQL",
+        "GEETHIKA",
+        "Java, C\n\nWeb Development :\nHTML, CSS, JavaScript, Bootstrap",
+        "React, Angular",
+        "React Native, Android"
+    ],
     "Designation": [
         "SOFTWARE ENGINEER"
     ],
-    "Experience": null,
-    "Projects": null,
-    "Educations": null,
-    "Skills": null,
+    "Educations": [
+        "BSc. (Hons) in Information Technology Degree",
+        "FACULTY OF INFORMATION TECHNOLOGY - UNIVERSITY OF MORATUWA"
+    ],
+    "Experience": [
+        "TRAINEE SOFTWARE ENGINEER - VIRTUSA (PVT) LTD"
+    ],
+    "Projects": [
+        "e Volunteer in STEM UP Educational Foundation",
+        "AUTOMATED PLANT PROTECTING SYSTEM\nJanuary 2019 - January 2020\n\n",
+        "e Mentored by Creative Software (Pvt.) Ltd. Web and mobile application-based\nsystem for both suppliers and customers, where suppliers can advertise their\noffers & promotions and customers can place their orders for offered items"
+    ],
     "Name": null
 }
