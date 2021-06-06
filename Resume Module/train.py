@@ -72,7 +72,7 @@ def trim_entity_spans(data: list) -> list:
 
 def train_spacy():
 
-    data_path = 'Data/dataBoth.json'
+    data_path = 'Data/data.json'
     train_data = convert_data_to_spacy(data_path)
 
     nlp = spacy.blank('en')  # loading blank english model
@@ -95,12 +95,12 @@ def train_spacy():
     with nlp.disable_pipes(*disable_pipes):
         optimizer = nlp.begin_training()
 
-        for iteration in range(2000):
+        for iteration in range(1000):
             random.shuffle(train_data)
             print('Iteration '+str(iteration))
             losses = {}
 
-            batches = minibatch(train_data, size=compounding(4.0, 32.0, 1.001))
+            batches = minibatch(train_data, size=compounding(1.0, 32.0, 1.001))
             for batch in batches:
                 text, annotation = zip(*batch)
                 nlp.update(
