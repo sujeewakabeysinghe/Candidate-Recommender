@@ -118,10 +118,7 @@ def train_spacy():
     test_data = convert_data_to_spacy(test_data_path)
     test_data = trim_entity_spans(test_data)
     # print(test_data)
-    tp = 0
-    tr = 0
-    tf = 0
-    ta = 0
+
     c = 1
     for text, annotations in test_data:
         # print(annotations)
