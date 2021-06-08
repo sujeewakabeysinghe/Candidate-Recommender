@@ -1,22 +1,29 @@
 
 
-Experience:
-TRAINEE SOFTWARE ENGINEER - EYEPAX IT CONSULTING PVT. LTD
-TRAINEE -
+Projects:
+H A N D  W R I T T E N  M E D I C A L  P R E S C R I P T I O NI N T E R P R E T A T I O N   ( O n g o i n g  F i n a l  Y e a r  R e s e a r c h  P r o j e c t )A  s y s t e m  t o  a n a l y z e  a n d  i n t e r p r e t  h a n d w r i t t e n  m e d i c a lp r e s c r i p t i o n s  u s i n g  i m a g e  p r o c e s s i n g  a p p r o a c h .  A s s i g n e d  t oi m p l e m e n t  e n t i t y  r e c o g n i t i o n  a n d  d e s i g n  o n t o l o g y
+
+
+Designation:
+SOFTWARE  ENGINEER
 
 
 Educations:
-B.Sc.(Hons) in Information Technology (expected in 2020) RICHMOND COLLEGE - GALLE
-UNIVERSITY OF MORATUWAFaculty of Information Technology
-Silvereen, Mampitiya,Hapugala
-
-
-Projects:
-research project - OngoingResearch project for detecting  pneumonia and pulmonary tuberculosis byanalyzing chest X- ray images . Images are taken from local chest clinicsand sent through multiple filters and goal of the project is assessment ofclassification algorithms(CNN, SVM,
-GARAGE BOOKING AND MANAGEMENT  WEBProject during the training periodProject  developed by the EYEPAX  Consulting Pvt Ltd. A website forSweden and   Norway to manage garage networks and book garageservices. Built using .NET and Angular JS
-My Contribution : Preprocessing and feature selection
-My contribution : Provide business solution and Frond-End
+BSc.(Hons) in Information Technology
+UNIVERSITY OF MORATUWA - FACULTY OF INFORMATIONTECHNOLOGY
+ANANDA NATIONAL COLLEGE, CHILAW
 
 
 Skills:
-Database - MySQL , MSSQL
+HTML 5, CSS 3, Bootstrap, Javascript, React, Spring Boot
+Java, Python, C
+React Native
+MySQL, PostgreSQL
+
+
+Experience:
+TRAINEE SOFTWARE ENGINEERLiveRoom (Pvt) Ltd
+
+
+Name:
+SACHINI PIYUMALI

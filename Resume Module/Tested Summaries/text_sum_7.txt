@@ -1,30 +1,31 @@
 
 
 Projects:
-Independent Research on Computational SocialScience (6 Months)Purpose of this research is to identify computationalsocial science. In this research paper discussedabout differences on social science and computerscience. Then discussed about data collectionmethods and factors on computer science involveswith social science
-Collaborative Portal for a School (Mar 2017-Jan 2018)Developed a software platform to interact teachers,students, parents and principal in an efficientmanner. Designed a system to display the overalland analysed student performance  and teachingprogress accurately
-
-
-Name:
-THENUJAHANSANI
-
-
-Skills:
-JAVA
-HTML, CSS
-Selenium IDE
-PHP, XML
-
-
-Educations:
-B.Sc. (Hons.) Degree in Information Technology
-Rajasinghe Central College and Vijayaba
-University of Moratuwa - Faculty of InformationTechnology
-
-
-Experience:
-Intern Software Quality Assurance Engineer
+INVESTMENT  MANAGEMENT  SYSTEM  (INVESTA)Freelancing Project | 2018 March - Present- Currently working in this project- The aim of this research project is to improve accuracy of the results ofStack Overflow posts to facilitate software practitioners to find best answerfrom duplicates by exploiting software repositories. Defined methodology touse ontology based approach to fine code snippets clones and NLPapproaches to find duplicate posts
+Code reviewing system- This project is all about code reviewing. The platform works with morethan 20 languages. This web platform capable of syntax checking for 3-5languages. Suggestion and good coding habits may present by thesystem itself. The main idea of the project is present ethics of coding.Technologies: Laravel 5.6, Jdoodle compiler API, TypedJS, ParticlesJs,Ace editor
 
 
 Designation:
-Q U A L I T Y  A S S U R A N C EE N G I N E E R
+S O F T W A R E  E N G I N E E R
+
+
+Educations:
+UPANANDA  COLLEGE
+RICHMOND  COLLEGE
+UNIVERSITY  OF  MORATUWAB.Sc(Hons) in Information Technology
+
+
+Skills:
+TestNG
+C, Java, Python
+HTML, CSS, JavaScript, PHP,Bootstrap, JQuery, AJAX
+MySQl
+Laravel, VueJs
+
+
+Experience:
+SOFTWARE  ENGINEERING  INTERNELEOS WEB PRIVATE LTD
+
+
+Name:
+YACHITHASANDARUWAN

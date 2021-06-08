@@ -1,30 +1,36 @@
 
 
 Projects:
-A  s y s t e m  t o  a n a l y z e  a n d  i n t e r p r e t  h a n d w r i t t e n  m e d i c a l
-
-
-Name:
-SACHINI PIYUMALI
-
-
-Skills:
-React Native
-HTML 5, CSS 3, Bootstrap, Javascript, React, Spring BootMobile Development
-Java, Python, C
-
-
-Educations:
-UNIVERSITY OF MORATUWA - FACULTY OF INFORMATIONTECHNOLOGY
-ANANDA NATIONAL COLLEGE, CHILAW
-BSc.(Hons) in Information Technology (Expected
-
-
-Experience:
-TRAINEE SOFTWARE ENGINEERLiveRoom (Pvt) Ltd
-S Y S T E M
-Y S T E M
+BSc Level 4 Final Year Project : Automatic Computer  Recognition of Printed music (Ongoing)  The aim of the projects is to recognize music notations in either  printed or handwritten materials and generate the relevant music.
+Level 1 Hardware Project : Safety Helmet  An automated helmet that identifies speed, geo-location and  vibrations.
+Level 3 Independent Research : Emergency Detection  using Audio  Audio command recognition, emergency detection, sound source  localization, malicious audio source detection, sound classification  and communication related to detect an emergency using audio.
+Bookclub  Involved in web application. Bookclub is a platform that helps  authors to sell books online in e-pub3 version as well as reader can  purchase through this application.
+Breakdown24*7  Involved in developing mobile application. This project supports  the community in an emergency of a vehicle such as tyre punch,  technical issues, fuel and battery issues and engine troubles. This  application helps drivers to contact a suitable party to resolve the  vehicle issue by tracking the location of the driver.
+Level 2 Software Project : Intern Management System  Mentored by – 99X Technologies  W Web based solution to manage interns’ details and activities.
 
 
 Designation:
-SOFTWARE  ENGINEER
+QA ENGINEER
+
+
+Educations:
+Holy Family Convent -  Kurunegala
+University of Moratuwa BSc (Hons) in Information Technology
+
+
+Skills:
+Flutter Databases: MySQL, DynamoDB
+Bitbucket, Git
+: Visual studio, IntelliJ Idea, Eclipse,  Android studio, PyCharm
+Selenium, TestNG,  Katalon studio, JMeter
+Bootstrap, JavaScript, NodeJS, Angular,  PHP, XML, Wordpress
+Jira,  ProjectLibre, Trello
+HTML, CSS,
+
+
+Experience:
+Ceyleon Solutions (Pvt) Ltd  2019/09 – 2020/02  Software Engineer cum Quality Assurance Engineer Intern
+
+
+Name:
+HIRUDINI UDUGAMA

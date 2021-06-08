@@ -1,0 +1,245 @@
+Ishara De Silva
+
+SOFTWARE ENGINEER
+
+ 
+
+Education
+
+University of Moratuwa
+
+Faculty of Information Technology
+
+Reading for Honors Degree of Bachelor of Science in Information
+
+Technology.
+
+G.C.E. O/L 2010 (Results: 9A s)
+G.C.E. A/L 2015 — Biological Science
+
+(Results: Chemistry —A, Biology-B, Physics-C).
+
+Work Experience
+
+Software Engineering Intern. 2019 July - 2019 Dec
+Aspitio (pvt) Ltd.
+
+Contributed to develop the HR module in the “Akura” School Management
+System.
+
+Technologies: Angular 9, NodeJS, MySQL
+
+Projects
+
+B.Sc. Level 4 Final Year Project-Computer Vision Based QA
+System to Detect Defects in Printed Embossed Fabrics
+(Ongoing project).
+
+An Image Processing based approach with three main modules including
+Background Removal module, Segmentation module and QA module for
+detecting defects in Printed Embossed Fabrics.
+
+Technologies: Python, Image Processing .
+
+Internship project - Akura School Management System
+(07/2019 - 12/2019).
+
+Contributed to HR module development for the School Management
+System. Technologies: Angular 9, Node.js, MySQL, JavaScript, Git, Postman
+
+API Testing.
+
+B.Sc. Level 2 Software Project - Collaborative portal for booking
+(01/2018 - 12/2018) .
+
+An Industry based project to book many properties such as hotels, apartments, houses, restaurants, banquets and meeting rooms through a
+single platform. Payment engine is added to handle payments.
+
+Technologies: PHP Laravel, Bootstrap, JavaScript, AJAX, jQuery, lonic.
+
+B.Sc. Level 1 Hardware Project - Automated umbrella dryer and
+holder (01/2017 - 12/2017) .
+
+A hardware project to make an automated system to dry wet umbrellas
+and hold them. This makes easy to people in rainy days. Technologies: C,
+
+Atmega32 Microcontroller, Stepper motors, IR sensors.
+
+ 
+
+About
+
+| am a dedicated and self-motivated
+final year Undergraduate with the
+ability to work collaboratively with
+people and adapt to the dynamic IT
+industry by quick learning of new
+technologies, and eagerly looking to
+build a successfulprofessional career
+
+in Software Engineering field.
+
+Contact
++94 '715911900
+
+hihdesilva@gmail.com
+
+No.559, School Lane, Debarawewa, Tissamaharama
+
+linkedin.com/in/ishafa_ele—silva/y
+
+github.com/IsharaDeSilva
+
+4Y~ 8 Of
+
+Skills
+
+Programming Languages
+
+Java SS
+C |
+Python eS
+
+Web Development
+
+JavaScript
+NodeJS
+Angular9
+HTML
+
+Sa
+Bootstrap
+
+Databases
+
+MySQL
+Mongo DB
+Ontology Based Project
+A semantic web search for analysis of a food domain and mainly
+
+focused on Ontological modeling.
+
+Technologies: Protégé, SPARQL
+
+Research Works
+
+Artificial Intelligence for Healthcare Independent Research (2019)
+An individual research study that was carried out to evaluate Al
+
+approaches in the health care domain.
+
+Professional Qulifications
+
+Server-side Development with NodeJS, Express and Mongo DB
+Successfully completed at Coursera
+
+Front-End JavaScript Frameworks: Angular
+Successfully completed at Coursera
+
+Object-Oriented Programming with Java
+Successfully completed at Coursera
+
+Advanced certificated in English Language
+Successfully competed in NIBM
+
+Participated Hackathons
+
+Hack Moral —- IT faculty coding competition (2018)
+participation
+
+Moraxtreme coding competition 3.0 (2018)
+participation
+
+FIT Code:RUSH-IT faculty coding competition (2018)
+participation
+
+FIT Code:RUSH-IT faculty coding competition (2020)
+
+participation
+
+Other Qulifications
+
+Information Technology Society (INTECS) - (2017- Present)
+Member
+
+FIT moments — IT faculty media society - (2017- 2019)
+Deputy Head in Videography Pillar
+
+UOM GAVEL Club - (2019)
+Member
+
+Writer at Medium
+hihdesilva-68009.medium.com
+
+Writer at LinkIT in INTECS
+University Of Moratuwa
+
+Non Related References
+
+Dr. Lochandaka Ranathunga
+
+Senior Lecturer,
+
+Department of IT
+
+Faculty of Information Technology
+University of Moratuwa
+
+Mobile: +94 712207030/ +94 712207030
+Email: lochandaka@Quom.|k
+
+IDES
+
+Webstorm re
+
+PyCharm 1
+Visual Studio qq
+Code
+
+Version Control
+
+Git a
+
+Operating Systems
+
+Windows SST
+Ubuntu (lL
+Related Course Works
+
+Digital Image Processing
+Data mining and Warehousing
+
+Semantic web and Ontological
+
+Modeling
+
+Human Computer Interaction
+
+Non Technical Skills
+
+Interpersonal Skills
+Quick Learner
+Leadership
+Creativity
+
+Communication Skills
+
+Documentation Skills
+
+Interests
+f ¢g
+(bo (OO x
+Music Badminton Travelling
+
+Mr. Vaseeharan Prasanna
+
+Engineer -Product Strategy,
+
+Aspitio (Pvt) Ltd
+
+4/2, 2A Lake Dr, Colombo 00800
+Mobile: +94 769246176 / +94 76 135 5178
+Email: prasanna@aspitio.com
+
+ 
+

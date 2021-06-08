@@ -1,29 +1,28 @@
 
 
 Projects:
-INVESTMENT  MANAGEMENT  SYSTEM  (INVESTA)Freelancing
-A platform for employees and blue color workers
-
-
-Name:
-YACHITHASANDARUWAN
-
-
-Skills:
-HTML, CSS, JavaScript, PHP,Bootstrap, JQuery, AJAXWeb FrameworksLaravel, VueJs
-C, Java, Python
-
-
-Educations:
-UPANANDA  COLLEGE
-B.Sc(Hons) in Information Technology
-UNIVERSITY  OF  MORATUWA
-RICHMOND  COLLEGE
-
-
-Experience:
-SOFTWARE  ENGINEERING  INTERN
+Environment monitoring systemA box which provides
+A web and mobile application to suppliersand buyers in the manning market.(Product
+Great wall restaurant projectFinal year
+(Level 2)Survey management system
 
 
 Designation:
-S O F T W A R E  E N G I N E E R
+QUALITY ASSURANCE ENGINEER
+
+
+Educations:
+Rathanawali Balika Vidyalaya, Gampaha
+
+
+Skills:
+Selenium (Web driver, IDE) ,TestNG
+Database :MySQLIDEEclipse,NetBeans,Visual Studio
+www.linkedin.com/in/geethika-kalhari-52b59715b/
+Test Case Design, Test Execution
+HTML,PHP,CSS,JavaScript,Angular
+Java , C
+
+
+Name:
+GEETHIKA KALHARI

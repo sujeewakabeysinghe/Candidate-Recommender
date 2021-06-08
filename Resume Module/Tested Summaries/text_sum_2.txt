@@ -1,27 +1,32 @@
 
 
 Projects:
-IMPROVING SOFTWARE QUALITY ASSURANCE IN DEVELOPING COUNTRIES (Level 3
-
-
-Skills:
-TestNG
-Test Case Design, Test Execution,
-Java, C, Python
-Creation
-Selenium Web + IDE, Cucumber
-HTML, PHP, CSS, JavaScript, Bootstrap
-
-
-Educations:
-UNIVERSITY OF MORATUWA
-BSc. (Hons.) in Information Technology and Management
-PANADURA BALIKA MAHA VIDYALAYA
-
-
-Experience:
-QUALITY ASSURANCE ENGINEER - INTERN
+TRANSACTION ASSISTANT APPLICATION FOR COLOMBO STOCK EXCHANGE.  Final year research project on the Share Price Prediction Application for Colombo Stock Exchange’s Potential investors and stakeholders. Here develop a digital assistant platform (Chabot) for supporting share holder service by considering share price
+PAYROLL AND INVENTORY MODULE IN ERP SYSTEM. (LEVEL 2)  Mentioned by Sayanu (pvt) Ltd. It’s a web system that efficiency manages the employee’s payroll, attendance and leave management
 
 
 Designation:
-QUALITY ASSURANCE ENGINEER
+Software Quality Assurance Engineer
+
+
+Educations:
+Central Collage Anuradhapura
+BACHELOR DEGREE  B.Sc. (Hons.) in Information  Technology & Management.  Faculty of Information Technology,  University of Moratuwa
+FREELANCER WEB & MOBILE DEVELOPER
+
+
+Skills:
+Python,Java,C
+MANUAL TESTING  AUTOMATION TESTING  Selenium IDE & web driver, TestNG
+Database 
+MySQL,PostgreSQL
+JavaScript, Php, HTML5, Css
+Programing Languages 
+
+
+Experience:
+TRAINEE SOFTWARE ENGINEER  Sayanu IT (Pvt) Ltd
+
+
+Name:
+SARANGA BANDARA

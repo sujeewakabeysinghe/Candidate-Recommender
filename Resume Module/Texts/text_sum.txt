@@ -1,0 +1,30 @@
+
+
+Name:
+Ishara De
+
+
+Projects:
+An Image Processing based approach with three main modules includingBackground Removal module, Segmentation module and QA module fordetecting defects in Printed Embossed Fabrics
+An Industry based project to book many properties such as hotels, apartments
+the School ManagementSystem
+Akura School Management System
+
+
+Educations:
+B.Sc. Level 4 Final Year Project-Computer Vision Based QASystem to Detect Defects in Printed Embossed Fabrics(Ongoing project)
+Honors Degree of Bachelor of Science in InformationTechnology
+University of MoratuwaFaculty of Information Technology
+
+
+Experience:
+Software Engineering Intern.
+
+
+Skills:
+Programming LanguagesJava SSC |Python eSWeb DevelopmentJavaScriptNodeJSAngular9HTMLSaBootstrapDatabasesMySQLMongo DBOntology Based ProjectA semantic web
+API Testing.
+
+
+Designation:
+SOFTWARE ENGINEER

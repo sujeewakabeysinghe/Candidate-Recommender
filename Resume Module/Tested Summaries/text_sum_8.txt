@@ -1,0 +1,26 @@
+
+
+Projects:
+SCHOOL MANAGEMENT SYSTEM "AKURA"(FINANCE DIVISION) INTERNSHIP PERIOD    (09/2018 - 03/2019)
+needs such as booking hotels ,cab services and tourguides using a web application and an androidapplication . The hotel , tour guide , cab service detailscan be updated through this system by logging in asservice providers
+A School Management System that provides a platformto unite school administration , teachers , students , andparents
+TOURIST MANAGEMENT SYSTEM     (2016 - 2017)A system to manage facilities which
+
+
+Designation:
+S O F T W A R E  E N G I N E E R
+
+
+Educations:
+B.Sc. (Hons.) in Information Technology
+University of Moratuwa
+
+
+Skills:
+Programming LanguagesJavaC# Web FrameworksSpring MVCASP.NET
+HTMLCSS
+MySQLMSSQL IDE
+
+
+Experience:
+Trainee Software Engineer

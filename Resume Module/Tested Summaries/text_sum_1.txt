@@ -1,24 +1,27 @@
 
 
 Projects:
-A web and mobile application to suppliersand buyers in the manning market.(Product
-
-
-Name:
-GEETHIKA KALHARI
-
-
-Skills:
-Java , C
-HTML,PHP,CSS,JavaScript,Angular
-Selenium (Web driver, IDE) ,TestNG
-Test Case Design, Test Execution,
-
-
-Educations:
-University Of Moratuwa B.Sc. (Hons.) Degree in Information Technology andManagement
-Rathanawali Balika Vidyalaya, Gampaha
+Develop a chatbot for Banking domain using NLP. Description: Main system was a digital avatar build using image processing where user can interact with the system by speech. According to the system my task was to develop a chatbot system for banking domain (ATM FAQs). Send the user question as an input and extract details from the text input using NLTK (Python library) and recognize the user intent and return relevant response. Machine learning was used to find the pattern matching to select the suitable response for the relevant question
+Educational Organizational Management System   The online web system to carry out educational and management activities of an educational organization where users can login to the system and involve in educational activities and android application to keep users updated with the system
 
 
 Designation:
-QUALITY ASSURANCE ENGINEER
+Software Engineer
+
+
+Educations:
+BSc (Hons) in Information Technology
+Vavuniya Tamil Madya Maha Vidyalaya,Vavuniya.
+University of Moratuwa
+
+
+Skills:
+Programming languages: Java, Python, C. Web Development: HTML, CSS, PHP, Boot strap, JavaScript. Database: MySQL, Firebase
+
+
+Experience:
+The Pulz Technologies: Trainee Software Engineer
+
+
+Name:
+Rahunath Yoganathan
